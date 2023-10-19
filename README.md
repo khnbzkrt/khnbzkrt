@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **NodeJs, ReactJs, TypeScript, ESModules**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khnbzkrt](https://github.com/khnbzkrt)
+- 👨‍💻 All of my projects are available at [Repositories]([https://github.com/khnbzkrt](https://github.com/khnbzkrt?tab=repositories "Repositories")
 
 - 💬 Ask me about **NodeJs, ReactJs, HTML, CSS**
 
 - 📫 How to reach me **khan.bozkurt@gmail.com**
 
-- 📄 Know about my experiences [https://tr.linkedin.com/in/hakan-angin](https://tr.linkedin.com/in/hakan-angin)
+- 📄 Know about my experiences [Linkedin](https://tr.linkedin.com/in/hakan-angin "Linkedin")
 
 <h3 align="left">Support:</h3>
 <p>
