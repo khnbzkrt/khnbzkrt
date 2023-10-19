@@ -39,7 +39,7 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
 </p>
 
-<p>
+<p style="display:flex;">
     <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khnbzkrt&show_icons=true&locale=en&layout=compact" alt="khnbzkrt" />   
     <img align="left" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=khnbzkrt&" alt="khnbzkrt" />
     <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=khnbzkrt&show_icons=true&locale=en" alt="khnbzkrt" />
