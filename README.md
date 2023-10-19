@@ -36,8 +36,7 @@
     <a href="https://www.buymeacoffee.com/khanbozkurv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khanbozkurv" /></a>
     <a href="https://ko-fi.com/hakanangin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hakanangin" /></a>
 </p>
-<br />
-<br />
+
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khnbzkrt&show_icons=true&locale=en&layout=compact" alt="khnbzkrt" />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=khnbzkrt&show_icons=true&locale=en" alt="khnbzkrt" />
