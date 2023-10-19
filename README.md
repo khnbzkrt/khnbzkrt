@@ -40,16 +40,17 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khnbzkrt&show_icons=true&locale=en&layout=compact" alt="khnbzkrt" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khnbzkrt&show_icons=true&locale=en&layout=compact" alt="khnbzkrt" />   
+</p>
 <br/>
 <br/>
-    
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=khnbzkrt&show_icons=true&locale=en" alt="khnbzkrt" />
-<br/>
-<br/>
-    
+
+<p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khnbzkrt&" alt="khnbzkrt" />
+</p>
 <br/>
 <br/>
-    
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=khnbzkrt&show_icons=true&locale=en" alt="khnbzkrt" />
 </p>
