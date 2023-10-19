@@ -19,6 +19,8 @@
     <a href="https://ko-fi.com/hakanangin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hakanangin" /></a>
 </p>
 <br/>
+<br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
