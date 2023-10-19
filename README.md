@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs, ReactJs, TypeScript, ESModules**
 
-- 👨‍💻 All of my projects are available at [Repositories]([https://github.com/khnbzkrt](https://github.com/khnbzkrt?tab=repositories "Repositories")
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/khnbzkrt?tab=repositories "Repositories")
 
 - 💬 Ask me about **NodeJs, ReactJs, HTML, CSS**
 
