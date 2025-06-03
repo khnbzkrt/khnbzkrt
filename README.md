@@ -3,23 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khnbzkrt&label=Profile%20views&color=0e75b6&style=flat" alt="khnbzkrt" /> </p>
 
-- 🌱 I’m currently learning **NodeJs, ReactJs, TypeScript, ESModules**
-
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/khnbzkrt?tab=repositories "https://github.com/khnbzkrt?tab=repositories")
 
-- 💬 Ask me about **NodeJs, ReactJs, HTML, CSS**
+- 💬 Ask me about **NodeJs, ReactJs, NextJs, TailwindCSS, HTML, CSS**
 
-- 📫 How to reach me [Gmail](khan.bozkurt@gmail.com "khan.bozkurt@gmail.com")
+- 📫 How to reach me [Gmail](dev.hakanangin@gmail.com "dev.hakanangin@gmail.com")
 
 - 📄 Know about my experiences [Linkedin](https://tr.linkedin.com/in/hakan-angin "https://tr.linkedin.com/in/hakan-angin")
-
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/khanbozkurv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khanbozkurv" /></a>
-    <a href="https://ko-fi.com/hakanangin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hakanangin" /></a>
-</p>
-<br/>
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
